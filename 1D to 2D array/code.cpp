@@ -19,6 +19,7 @@ int main()
 void Array_to_2D(int a[],int size)
 {
     cout<<"\nOUTPUT: ";
+    cout<<endl;
     int arr[10][10];
     for(int i=0;i<size;i++)
     {
