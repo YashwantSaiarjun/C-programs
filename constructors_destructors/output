@@ -1,0 +1,14 @@
+Enter name: Johnathan
+
+Enter sex: M
+
+Enter age: 20
+
+Enter place: Boston
+
+Construvtor at work
+ Name: Johnathan
+ sex: M
+ age: 20
+ place: Boston
+Destructor at work
